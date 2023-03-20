@@ -36,6 +36,10 @@ zip
 zlib-devel 
 vim-enhanced
 emacs-nox
+qt5-qtbase-devel
+qt5-qtbase-private-devel
+qt5-qtdeclarative-devel
+qt5-qtwayland-devel
 "
 
 EPEL_PKGS="
